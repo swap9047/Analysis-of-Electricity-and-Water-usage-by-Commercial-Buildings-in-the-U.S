@@ -1,1 +1,3 @@
 # Analysis-of-Electricity-and-Water-usage-by-Commercial-Buildings-in-the-U.S
+
+The following study aims at building predictive models for Commercial Buildings Energy Consumption for cooling in the United States using the 2003 EIA data set. This project illustrates an attempt at using logarithmic transformations on the electricity consumed, area and number of cooling degree days, as explained in detail later; selecting a model that will fit and predict the CBECS 2003 data set best. Our findings will be validated against the actual data published by EIA (Expected to be released in June 2016). This paper will also illustrate the important parameters that affect the cooling load of a building, and their degree of influence.
